@@ -1,3 +1,4 @@
 
-.idea/vcs.xml
-out/production/java-date-time-api/com/example/NewDateTimeExample.class
+.idea/*
+out/*
+java-date-time-api.iml
